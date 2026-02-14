@@ -67,7 +67,6 @@ export async function POST(request: NextRequest) {
           },
           signal: controller.signal,
           redirect: "follow",
-          // @ts-expect-error Next.js extends fetch with cache
           cache: "no-store",
         });
 
