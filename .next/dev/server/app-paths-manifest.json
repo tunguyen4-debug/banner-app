@@ -1,8 +1,3 @@
 {
-  "/api/analyze-url/route": "app/api/analyze-url/route.js",
-  "/api/generate-design/route": "app/api/generate-design/route.js",
-  "/api/regenerate/route": "app/api/regenerate/route.js",
-  "/api/test/route": "app/api/test/route.js",
-  "/editor/page": "app/editor/page.js",
-  "/page": "app/page.js"
+  "/editor/page": "app/editor/page.js"
 }

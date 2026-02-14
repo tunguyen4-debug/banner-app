@@ -391,10 +391,6 @@
     pointer-events: none;
   }
 
-  .visible {
-    visibility: visible;
-  }
-
   .absolute {
     position: absolute;
   }
@@ -593,10 +589,6 @@
 
   .flex-shrink-0 {
     flex-shrink: 0;
-  }
-
-  .grow {
-    flex-grow: 1;
   }
 
   .transform {
@@ -973,10 +965,6 @@
     .bg-slate-950\/80 {
       background-color: color-mix(in oklab, var(--color-slate-950) 80%, transparent);
     }
-  }
-
-  .bg-white {
-    background-color: var(--color-white);
   }
 
   .bg-gradient-to-b {
